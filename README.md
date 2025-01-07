@@ -1,3 +1,3 @@
 # coder
 programms
-Auther - omkar
+Author - omkar
